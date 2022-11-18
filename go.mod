@@ -1,4 +1,4 @@
-module github.com/Coresummer/utils
+module github.com/xxixuuu/utils
 
 go 1.16
 
